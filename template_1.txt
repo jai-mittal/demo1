@@ -1,1 +1,2 @@
 this is template 1 line 1
+this is line 2 from master.
